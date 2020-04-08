@@ -7,5 +7,6 @@ Un blog para probar el curso
 * Todos los comandos de GIT
 * El flujo de trabajo de GIT
 * Las buenas practicas
+* creado por el increible
 
 Y como un recordatorio: **Este readme.md es un ejemplo**. Disenado para el ejemplo.
