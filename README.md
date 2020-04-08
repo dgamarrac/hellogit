@@ -8,5 +8,10 @@ Un blog para probar el curso
 * El flujo de trabajo de GIT
 * Las buenas practicas
 * creado por el increible
+<<<<<<< HEAD
+=======
+* Icluye ejemplo en linux y Mac
+* Disponible para todas las personas
+>>>>>>> readme-mejorado
 
 Y como un recordatorio: **Este readme.md es un ejemplo**. Disenado para el ejemplo.
